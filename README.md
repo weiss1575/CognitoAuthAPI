@@ -1,6 +1,6 @@
 # CognitoAuthAPI
 
-CognitoAuthAPI is a .NET Core API that integrates with Amazon Cognito Identity Provider to handle user authentication and related actions. This API allows users to sign up, confirm their account, sign in, reset their password, change their password, and retrieve their user information.
+CognitoAuthAPI is a .NET Core API that integrates with Amazon Cognito Identity Provider to handle user authentication and related actions. This API allows users to sign up, confirm their account, sign in, reset their password, change their password, and retrieve their user information. See frontend [here](https://github.com/weiss1575/CognitoAuthClient/tree/master#readme).
 
 ## Table of Contents
 
